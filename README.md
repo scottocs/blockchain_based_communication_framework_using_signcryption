@@ -2,10 +2,9 @@
 
 [The paper](https://dl.acm.org/doi/abs/10.1145/3532105.3535034) is online 
 
+This work is partially accomplished by jindada1
 
 ## 实现 Secp256k1
-
-跳过验证证书和公钥这一步骤
 
 选择
 
